@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>compute.gif</file>
+        <file>fox.gif</file>
+        <file>jump.gif</file>
+        <file>海.jpg</file>
+        <file>文字2.jpg</file>
+        <file>云朵.jpg</file>
+        <file>chat.jpg</file>
+        <file>6.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>2.jpg</file>
+        <file>1.jpg</file>
+        <file>add.jpg</file>
+        <file>group.jpg</file>
+        <file>group-up.jpg</file>
+        <file>group-down.jpg</file>
+        <file>chat-down.jpg</file>
+        <file>chat-up.jpg</file>
+        <file>chat-back.jpg</file>
+    </qresource>
+    <qresource prefix="/qss"/>
+</RCC>

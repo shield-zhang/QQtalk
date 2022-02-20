@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AMOLED.qss</file>
+        <file>Aqua.qss</file>
+        <file>ConsoleStyle.qss</file>
+        <file>ElegantDark.qss</file>
+        <file>MacOS.qss</file>
+    </qresource>
+</RCC>
